@@ -6,5 +6,5 @@ public class TestKlass1 {
     //Testkod2
 
     //Ändring 1 i TestBranch1
-
+    //Ändring 2 i TestBranch1
 }

@@ -4,4 +4,7 @@ public class TestKlass1 {
 
     //Testkod1
     //Testkod2
+
+    //Ändring 1 i TestBranch1
+
 }
